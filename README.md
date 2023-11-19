@@ -3,6 +3,8 @@
 ### Link to the hosted Project : https://ttt-harshsingh.vercel.app/ 
 
 This project is a React App that demonstrates the front-end of the webpage made for mobile devices as asked by the recruiters.
+
+
 ![Screenshot](screenshot.jpg)
 
 
