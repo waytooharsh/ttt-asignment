@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "IND vs AUS: The Aftermath",
+    "content": "Despite the impeccable performance by Team India in the World Cup Series 2023, winning all the matches and qualifying for the finals, the team lost.This loss is heart-breaking for Indian Cricket fans...",
+    "footerpre": "blogs",
+    "footersuf": "harshsingh",
+    "date": "19 November",
+    "readingtime": "1 min",
+    "views": 235
+  },
+  {
+    "id": 2,
+    "title": "The temperature drop in Jalandhar",
+    "content": "Since last Saturday, the temperatures in Jalandhar have fallen to a daily high of 27 degrees Celcius and to a daily low of 12 degrees Celcius. This change in weather is accompanied by seasonal fever and cold...",
+    "footerpre": "blogs",
+    "footersuf": "harshsingh",
+    "date": "18 November",
+    "readingtime": "1 min",
+    "views": 104
+  },
+  {
+    "id": 3,
+    "title": "Performance of Team India",
+    "content": "Team India is on a winning streak. Losing none and winning all of the matches till now in the World Cup 2023 series is surely applaudable. But the fans are hyped for the Finals. As the moment of truth approaches closer, the heartbeats of Indian cricket team fans are increasing....",
+    "footerpre": "blogs",
+    "footersuf": "harshsingh",
+    "date": "17 November",
+    "readingtime": "1 min",
+    "views": 267
+  }
+]
